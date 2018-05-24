@@ -1,0 +1,6 @@
+{
+    "directory":"public\\lib",
+    "proxy": "http://y80053445:Dad%4019630320@proxyus3.huawei.com:8080",
+    "https-proxy":"http://y80053445:Dad%19630320@proxyus3.huawei.com:8080",
+    "strict-ssl":false
+}
